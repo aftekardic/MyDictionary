@@ -1,0 +1,13 @@
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\bin\Debug\netcoreapp3.1\DictonaryGenerics.exe
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\bin\Debug\netcoreapp3.1\DictonaryGenerics.deps.json
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\bin\Debug\netcoreapp3.1\DictonaryGenerics.runtimeconfig.json
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\bin\Debug\netcoreapp3.1\DictonaryGenerics.runtimeconfig.dev.json
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\bin\Debug\netcoreapp3.1\DictonaryGenerics.dll
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\bin\Debug\netcoreapp3.1\DictonaryGenerics.pdb
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\obj\Debug\netcoreapp3.1\DictonaryGenerics.AssemblyInfoInputs.cache
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\obj\Debug\netcoreapp3.1\DictonaryGenerics.AssemblyInfo.cs
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\obj\Debug\netcoreapp3.1\DictonaryGenerics.csproj.CoreCompileInputs.cache
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\obj\Debug\netcoreapp3.1\DictonaryGenerics.dll
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\obj\Debug\netcoreapp3.1\DictonaryGenerics.pdb
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\obj\Debug\netcoreapp3.1\DictonaryGenerics.genruntimeconfig.cache
+C:\Users\AFT\source\repos\KampIntro\DictonaryGenerics\obj\Debug\netcoreapp3.1\DictonaryGenerics.csprojAssemblyReference.cache
